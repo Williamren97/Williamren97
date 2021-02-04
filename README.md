@@ -13,5 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![Williamren97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Williamren97)](https://github.com/Williamren97/github-readme-stats)
+-->
+
+[![Williamren97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Williamren97]()
+
