@@ -1,10 +1,15 @@
 ### Hi there 👋
 
+<main style="float: left;">
+  <p>My name is Wei Ren.</p>
+  <p>If you want to know more about me, you can visit <a href="https://blog.csdn.net/weixin_41884690?spm=1000.2115.3001.5343" target="_blank">https://blog.csdn.net/weixin_41884690?spm=1000.2115.3001.5343</a> .</p>
+</main>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Williamren97&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamren97&layout=compact" />
+
+- 🔭 [CSDN](https://blog.csdn.net/weixin_41884690?spm=1000.2115.3001.5343)
 <!--
-**Williamren97/Williamren97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,10 +18,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![Williamren97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Williamren97)](https://github.com/Williamren97/github-readme-stats)
 -->
-
-[![Williamren97's GitHub stats](https://github-readme-stats.vercel.app/api?username=Williamren97)]()
-
-
