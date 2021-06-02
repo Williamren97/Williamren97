@@ -2,7 +2,7 @@
 # Hi there 👋
 [![](https://img.shields.io/badge/-@Williamren97-%23181717?style=flat-square&logo=github)](https://github.com/Williamren97)
 
-I am **Ren Wei**. I am a **Java Developer**,  **Skilled in SpringFramework, SpringBoot, NLP.**
+I am **Ren Wei**. I am a **Java Developer**,  **Skilled in Distributed System, Spring Cloud, NLP.**
 
 ---
 - 🌱 I’m currently write spring-framework source code analysis
