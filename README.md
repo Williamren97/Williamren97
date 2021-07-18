@@ -5,7 +5,7 @@
 I am **Ren Wei**. I am a **SDE**,  **Skilled in Distributed System, Spring Cloud, NLP.**
 
 ---
-- 🌱 I’m currently write leetcode daily
+- 🌱 I’m currently write [leetcode](https://leetcode-cn.com/u/pukka/) daily
 - 💬 Ask me about Java Dev、Middleware、DDD
 
 <p align="center">
