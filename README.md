@@ -2,11 +2,11 @@
 # Hi there 👋
 [![](https://img.shields.io/badge/-@Williamren97-%23181717?style=flat-square&logo=github)](https://github.com/Williamren97)
 
-I am **Ren Wei**. I am a **SDE**,  **Skilled in Distributed System, Spring Cloud, NLP.**
+I am **Ren Wei**. I am a **SDE**,  **Skilled in Distributed System, Spring Cloud, [NLP](https://dl.acm.org/profile/99659690355).**
 
 ---
-- 🌱 I’m currently write [leetcode](https://leetcode-cn.com/u/pukka/) daily
-- 💬 Ask me about Java Dev、Middleware、DDD
+- 🌱 I’m currently write [leetcode](https://leetcode-cn.com/u/pukka/) daily.
+- 💬 Ask me about Java Dev、Middleware、DDD,here are my [tech blogs](https://blog.csdn.net/weixin_41884690?type=blog)
 
 <p align="center">
   <img align="center" src="https://github.com/huifer/huifer/blob/master/developer.gif"/>
