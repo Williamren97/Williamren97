@@ -5,8 +5,8 @@
 I am **Ren Wei**. I am a **SDE**,  **Skilled in Distributed System, Spring Cloud, NLP.**
 
 ---
-- 🌱 I’m currently write spring-framework source code analysis
-- 💬 Ask me about Java Development
+- 🌱 I’m currently write leetcode daily
+- 💬 Ask me about Java Dev、Middleware、DDD
 
 <p align="center">
   <img align="center" src="https://github.com/huifer/huifer/blob/master/developer.gif"/>
