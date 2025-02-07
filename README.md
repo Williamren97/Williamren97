@@ -7,7 +7,7 @@ I am **William Ren**. I am a **SDE**,  **Skilled in Distributed System, Spring C
 ---
 - 🌱 I’m currently write [leetcode](https://leetcode-cn.com/u/pukka/) daily
 - 💬 Ask me about Java Dev、Middleware、DDD、Chaos engineering、Declarative programming
-- ✏️  Here are my [tech blogs](https://blog.csdn.net/weixin_41884690?type=blog)
+- ✏️  Here are my [tech blogs](https://g)
 
 <!--
 - 🔭 I’m currently working on ...
